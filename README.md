@@ -1,5 +1,8 @@
 # EX-5 Comparative Analysis of different types of Prompting patterns and explain with Various Test scenerios
 
+# Name:Thikazhmanibala.K
+# Reg no:212222060277
+
 # Experiment:
 Test and compare how different pattern models respond to various prompts (broad or unstructured) versus basic prompts (clearer and more refined) across multiple scenarios. 
      Analyze the quality, accuracy, and depth of the generated responses.
